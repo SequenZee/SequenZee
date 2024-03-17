@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Asanta!!
-🌟 Final year BTech student in CS from VIT, Bhopal(2020-24)<br>🖥️ Aspiring Software Developer<br>🔭 Working on enhancing my coding skills through DSA and personal projects.<br>📕 Currently learning to integrate GenAI in Web Development<br>📈 Lifelong Learner
+🌟 Final year BTech student in CS at VIT, Bhopal(2020-24)<br>🖥️ Aspiring Software Developer<br>🔭 Working on enhancing my coding skills through DSA and personal projects.<br>📕 Currently learning to integrate GenAI in Web Development<br>📈 Lifelong Learner
 
 ## 📁 Portfolio
 [PORTFOLIO](https://personal-portfolio-asanat4587.netlify.app/) ↗
